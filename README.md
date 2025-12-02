@@ -1,1 +1,1 @@
-# flex_value_examples
+# Collection of flexibility value examlples
